@@ -16,16 +16,18 @@ body {
 }
 /* Container */
 .container {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 /* html */
 :root {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
-    --color-blue: #17206a;
-    --text-color-first: #000;
-    --text-color-secund: #fff;
+    --blue: #17206a;
+    --hover: #003BB3;
+    --black: #000;
+    --white: #fff;
+    --bg-white: #F0F0F0;
 }
 /* Heading */
 h1, 
